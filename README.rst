@@ -106,7 +106,7 @@ Requirements
 `django-markdown-deux>=1.0.4
 <https://github.com/trentm/django-markdown-deux>`_
 
-`django-pagedown>=0.0.5
+`django-pagedown>=2.2.1
 <https://github.com/timmyomahony/django-pagedown>`_
 
 If you have problem getting the right versions of these packages,
