@@ -2,7 +2,7 @@ from random import choice, randint
 
 from django import forms
 from django.utils.safestring import mark_safe
-from django.utils.translation import ugettext_lazy as _
+from django.utils.translation import gettext_lazy as _
 from pagedown.widgets import PagedownWidget
 from simplemathcaptcha.fields import MathCaptchaField
 
